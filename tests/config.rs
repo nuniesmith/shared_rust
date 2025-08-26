@@ -1,4 +1,4 @@
-use fks_shared_rust::env::get_var;
+use shared_rust::env::get_var;
 
 #[test]
 fn test_defaults() {

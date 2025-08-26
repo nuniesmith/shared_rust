@@ -1,5 +1,5 @@
 [package]
-name = "fks-shared-rust"
+name = "shared_rust"
 version = "0.1.0"
 edition = "2021"
 description = "FKS shared Rust utilities: env loading, risk utils, shared types"

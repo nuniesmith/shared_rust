@@ -1,4 +1,4 @@
-use fks_shared_rust::types::{TradeSignal, TradeSide};
+use shared_rust::types::{TradeSignal, TradeSide};
 use serde_json;
 
 #[test]
